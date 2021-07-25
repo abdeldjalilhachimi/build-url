@@ -1,0 +1,23 @@
+{
+  "name": "build-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdeldjalilhachimi/randome-js-topics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdeldjalilhachimi/randome-js-topics/issues"
+  },
+  "homepage": "https://github.com/abdeldjalilhachimi/randome-js-topics#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
